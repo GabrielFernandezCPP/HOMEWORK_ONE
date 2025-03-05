@@ -1,1 +1,3 @@
 Hello, my name is "Gabriel Fernandez" and I am working on hw1
+Hello, our names are Gabriel and Nicholas and we are working on
+hw4 together
